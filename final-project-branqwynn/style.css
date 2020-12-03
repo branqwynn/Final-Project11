@@ -1,0 +1,14 @@
+body {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  background: pink;
+  overflow: hidden;
+}
+
+canvas {
+  background: black;
+  border: 5px solid red;
+  margin-top: 10px;
+}
